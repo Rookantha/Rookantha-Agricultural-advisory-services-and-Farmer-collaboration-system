@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:backgroundTint="@android:color/transparent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/profile_image"
+            android:src="@mipmap/ic_launcher"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/username"
+            android:id="@+id/username"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/profile_image"
+            android:layout_toEndOf="@+id/profile_image"
+            android:layout_marginLeft="10dp"
+            android:layout_centerVertical="true"
+            android:textSize="18sp"
+            />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            app:civ_border_width="10dp"
+            app:civ_border_color="#05df29"
+            android:visibility="gone"
+            android:id="@+id/img_on"
+            android:src="@mipmap/ic_launcher"
+            android:layout_below="@+id/username"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="-15dp"
+            android:layout_toEndOf="@+id/profile_image"
+            />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            app:civ_border_width="10dp"
+            app:civ_border_color="#bfbfbf"
+            android:id="@+id/img_off"
+            android:src="@mipmap/ic_launcher"
+            android:layout_below="@+id/username"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="-15dp"
+            android:layout_toEndOf="@+id/profile_image"
+            />
+
+        <TextView
+            android:id="@+id/last_msg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/username"
+            android:layout_toRightOf="@+id/profile_image"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_marginLeft="20dp"
+            android:maxLines="1"
+            />
+
+        <TextView
+            android:id="@+id/count_chats"
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:layout_marginTop="28dp"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#fff"
+            android:background="@drawable/cancel_image"
+            android:layout_marginRight="20dp"
+            android:layout_alignParentEnd="true"
+            android:maxLines="1"
+            android:visibility="gone"
+            />
+
+</RelativeLayout>

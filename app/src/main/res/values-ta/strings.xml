@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChatAgro</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_password_title">கணக்கின் கடவுச்சொல்லை மாற்றவும்</string>
+    <string name="change_password_new">புதிய கடவுச்சொல்</string>
+    <string name="change_password_confirm">புதிய கடவு சொல்லை உறுதி செய்</string>
+    <string name="change_password_button">கடவுச்சொல்லை மாற்று</string>
+    <string name="login_title">உங்கள் கணக்குடன் உள்நுழைக</string>
+    <string name="registered_email">பதிவுசெய்யப்பட்ட மின்னஞ்சல் முகவரி</string>
+    <string name="password">கடவுச்சொல்</string>
+    <string name="button_login">உள் நுழை</string>
+    <string name="button_register">பதிவு</string>
+    <string name="forgot_password">உங்கள் கடவுச்சொல்லை மறந்துவிட்டீர்களா ...?</string>
+    <string name="email_app">ஒரு மின்னஞ்சல் இல்லை தொடர்ந்து பதிவு செய்து பதிவு</string>
+    <string name="type_message">ஒரு செய்தியைத் தட்டச்சு செய்க ...</string>
+    <string name="register_title">புதிய கணக்கை துவங்கு</string>
+    <string name="username">பயனர்பெயர்</string>
+    <string name="email_address">மின்னஞ்சல் முகவரி</string>
+    <string name="mobile_number">மொபைல் எண்</string>
+    <string name="confirm_password">உறுதிப்படுத்து - கடவுச்சொல்</string>
+    <string name="reset_title">கடவுச்சொல்லை மீட்டமைக்க</string>
+    <string name="description">கிளிக் செய்யவும் மீட்டமை கடவுச்சொல் பட்டன், நீங்கள் கடவுச்சொல்லை மீட்டமைக்க ஒரு மின்னஞ்சல் பெறுவீர்கள்</string>
+    <string name="exit">வெளியேறு</string>
+    <string name="search">தேடல் பயனர்கள் ....</string>
+    <string name="button_update">சுயவிவரத்தை புதுப்பிக்கவும்</string>
+    <string name="button_delete">கணக்கை நீக்குக</string>
+    <string name="logout">வெளியேறு</string>
+    <string name="back">மீண்டும்</string>
+    <string name="null_email">மின்னஞ்சல் தேவைப்படுகிறது</string>
+    <string name="check_email">தயவுசெய்து உங்கள் மின்னஞ்சலைப் பார்க்கவும்</string>
+    <string name="register_dialog_message">தயவுசெய்து காத்திருங்கள் .... \n பதிவுசெய்தல் முன்னேற்றம்</string>
+    <string name="register_fail">கணக்கை பதிவு செய்வதில் தோல்வி</string>
+    <string name="internetFail">இணைய இணைப்பு இல்லை ...!</string>
+    <string name="registerSuccess">கணக்கு வெற்றிகரமாக பதிவுசெய்யப்பட்டது \n சரிபார்ப்பு அஞ்சல் அனுப்பவும்</string>
+    <string name="registerFailed">சரிபார்ப்பு அஞ்சல் அனுப்ப முடியவில்லை</string>
+    <string name="empty_send">காலியான செய்திகளை அனுப்ப முடியாது</string>
+    <string name="title_signout_dialog">உண்மையிலேயே கையெழுத்திட வேண்டும் - அவுட் ...</string>
+    <string name="body_signout_dialog">நீங்கள் வெளியேற வேண்டும் என்று உறுதியாக இருக்கிறீர்களா ..?</string>
+    <string name="positive">ஆம்</string>
+    <string name="negative">இல்லை</string>
+    <string name="login_fail_message">உள்நுழைவு தோல்வி</string>
+    <string name="dialog_log_message">காத்திருங்கள் ... \n உள்நுழைவு செயலில் உள்ளது</string>
+    <string name="fail_change">கடவுச்சொல் மாற்றுவதில் தோல்வி</string>
+    <string name="success_change">கடவுச்சொல் வெற்றிகரமாக மாற்றப்பட்டது</string>
+    <string name="no_internet_big_message">இன்டர்நெட் இணைப்பு இல்லை .. \n தயவுசெய்து இணையத்துடன் இணைத்து மீண்டும் முயற்சிக்கவும்</string>
+    <string name="language">விருப்பமான மொழியைத் தேர்வு செய்க</string>
+    <string name="chating">அரட்டைகள்</string>
+    <string name="Users">பயனர்கள்</string>
+    <string name="Profile">விவரம்</string>
+    <string name="NoImage">எந்த படமும் தேர்ந்தெடுக்கப்படவில்லை</string>
+    <string name="upload_progress">பதிவேற்றத்தில் பதிவேற்றம்</string>
+    <string name="dial_Title">நீ சொல்வது உறுதியா..?</string>
+    <string name="dialogBody">இந்த கணக்கை நீக்குவது, உங்கள் கணக்கை கணினியிலிருந்து முழுமையாக நீக்கிவிடும், மேலும் இனிமேல் பயன்பாட்டை அணுக முடியாது</string>
+    <string name="dialogDelete">அழி</string>
+    <string name="dialogCancel">ரத்து</string>
+    <string name="dialogDeleteSuccess">கணக்கு வெற்றிகரமாக நீக்கப்பட்டது \n நல்லது ..\!</string>
+    <string name="dialogDeleteFail">உங்கள் கணக்கை நீக்குவதில் தோல்வி \n மீண்டும் முயற்சிக்கவும்</string>
+    <string name="update_progress">காத்திருக்கவும் ... \n முன்னேற்றம் புதுப்பிக்கப்படுகிறது</string>
+    <string name="update_success">சுயவிவரம் வெற்றிகரமாக புதுப்பிக்கப்பட்டது</string>
+    <string name="send">அனுப்புக</string>
+    <string name="uploading">சுயவிவர படம் \n முன்னேற்றம் இல் பதிவேற்றுகிறது</string>
+    <string name="image_uploading">தேர்ந்தெடுக்கப்பட்ட படம் \n முன்னேற்றம் இல் பதிவேற்றம்</string>
+    <string name="change_lang">மொழியை மாற்று</string>
+    <string name="refresh">புதுப்பிப்பு</string>
+    <string name="delete_message">இந்தச் செய்தியை நிச்சயமாக நீக்க விரும்புகிறீர்களா?</string>
+    <string name="not_user">வேறு ஒருவரின் செய்தியை நீக்க முடியாது</string>
+
+    <string-array name="register_validation_message">
+        <item>பயனர்பெயர் தேவை</item>
+        <item>மின்னஞ்சல் முகவரி தேவைப்படுகிறது</item>
+        <item>மொபைல் எண் தேவை</item>
+        <item>கடவுச்சொல் தேவை</item>
+        <item>இரண்டு கடவுச்சொற்கள் பொருந்தவில்லை</item>
+        <item>கடவுச்சொல் குறைந்தது 6 எழுத்துக்களை கொண்டிருக்கவேண்டும்</item>
+    </string-array>
+</resources>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChatAgro</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_password_title">ගිණුමේ මුරපදය වෙනස් කරන්න</string>
+    <string name="change_password_new">නව මුරපදය</string>
+    <string name="change_password_confirm">නව මුරපදය තහවුරු කරන්න</string>
+    <string name="change_password_button">නව මුරපදය තහවුරු කරන්න</string>
+    <string name="login_title">ඔබගේ ගිණුම සමඟ ලොග් වන්න</string>
+    <string name="registered_email">ලියාපදිංචි ඊමේල් ලිපිනය</string>
+    <string name="password">මුරපදය</string>
+    <string name="button_login">ලොග් වන්න</string>
+    <string name="button_register">ලියාපදිංචි වන්න</string>
+    <string name="forgot_password">ඔබගේ මුරපදය අමතකද? ...</string>
+    <string name="email_app">ඊමේල් ලිපිනයක් නොමැතිද..? පහත සඳහන් අය සමග ලියාපදිංචි වන්න</string>
+    <string name="type_message">පණිවිඩය ටයිප් කරන්න..</string>
+    <string name="register_title">නව ගිණුමක් සාදන්න</string>
+    <string name="username">පරිශීලක නාමය</string>
+    <string name="email_address">ඊමේල් ලිපිනය</string>
+    <string name="mobile_number">ජංගම දූරකථන අංකය</string>
+    <string name="confirm_password">මුරපදය තහවුරු කරන්න</string>
+    <string name="reset_title">මුරපදය නැවත සකසන්න</string>
+    <string name="description">මුරපදය බොත්තම මත ක්ලික් කිරීමෙන්, මුරපදය නැවත පිහිටුවීම සඳහා ඔබට ඊමේල් එකක්  ලැබෙනු ඇත</string>
+    <string name="exit">පිටවීම</string>
+    <string name="search">පරිශීලකයන් සොයන්න ....</string>
+    <string name="button_update">පැතිකඩ යාවත්කාලීන කරන්න</string>
+    <string name="button_delete">ගිණුම මකන්න</string>
+    <string name="logout">ඉවත්ව යන්න</string>
+    <string name="back">ආපස්සට යන්න</string>
+    <string name="null_email">ඊමේල් ලිපිනය අනිවාර්යයි</string>
+    <string name="check_email">කරුණාකර ඔබගේ ඊමේල් පරික්ෂා කරන්න</string>
+    <string name="register_dialog_message">කරුණාකර රැඳී සිටින්න....\n ලියාපදිංචි වෙමින් පවතී..</string>
+    <string name="register_fail">ගිණුම ලියාපදිංචි කිරීමට අසමත් විය</string>
+    <string name="internetFail">අන්තර්ජාල සම්බන්ධතාවයක් නෑ ...!</string>
+    <string name="registerSuccess">ගිණුම සාර්ථකව ලියාපදිංචි විය \n තහවුරු කිරීමේ ඊමේල් ලිපිය යවන ලදී</string>
+    <string name="registerFailed">තහවුරු කිරීමේ ඊමේල් ලිපිය යැවීමට අසමත් විය</string>
+    <string name="empty_send">හිස් පණිවිඩ යැවීමට නොහැක</string>
+    <string name="title_signout_dialog">ඉවත්ව යන්න සැබැවින්ම අවශ්යද ...?</string>
+    <string name="body_signout_dialog">ඉවත් වීමට අවශ්‍ය බව ඔබට විශ්වාසද..?</string>
+    <string name="positive">ඔව්</string>
+    <string name="negative">නැත</string>
+    <string name="login_fail_message">ලොග් වීම අසාර්ථක විය</string>
+    <string name="dialog_log_message">කරුණාකර රැඳී සිටින්න...\n ලොග් වෙමින් පවතී</string>
+    <string name="fail_change">මුරපදය වෙනස් කිරීමට නොහැකි විය</string>
+    <string name="success_change">මුරපදය සාර්ථකව වෙනස් කරන ලදී</string>
+    <string name="no_internet_big_message">අන්තර්ජාල සම්බන්ධතාවයක් නොමැත. \n කරුණාකර අන්තර්ජාලයට සම්බන්ධ කර නැවත උත්සාහ කරන්න</string>
+    <string name="language">කැමති භාෂාව තෝරන්න</string>
+    <string name="chating">චැට්ස්</string>
+    <string name="Users">පරිශීලකයන්</string>
+    <string name="Profile">පැතිකඩ</string>
+    <string name="NoImage">තෝරාගත් පින්තූරයක් නොමැත</string>
+    <string name="upload_progress">අප්ලෝඩ් වෙමින් පවතී</string>
+    <string name="dial_Title">ඔබට විශ්වාසද..?</string>
+    <string name="dialogBody">මෙම ගිණුම මකා දැමීමෙන් පද්ධතියෙන් ඔබේ ගිණුම සම්පූර්ණයෙන්ම ඉවත් කරන ඇති අතර තව දුරටත් යෙදුමට ඇතුලු වීමට ඔබට නොහැකි වනු ඇත</string>
+    <string name="dialogDelete">මකන්න</string>
+    <string name="dialogCancel">අවලංගු කරන්න</string>
+    <string name="dialogDeleteSuccess">ගිණුම සාර්ථකව මකන ලදී \n ආයුබෝවන්</string>
+    <string name="dialogDeleteFail">ඔබගේ ගිණුම මකා දැමීමට අසමත් විය \n නැවත උත්සාහ කරන්න</string>
+    <string name="update_progress">කරුණාකර රැඳී සිටින්න ... \n යාවත්කාලීන කිරීම සිදු වෙමින් පවතී</string>
+    <string name="update_success">පැතිකඩ සාර්ථකව යාවත්කාලීන කරන ලදී</string>
+    <string name="send">යවන්න</string>
+    <string name="uploading">පැතිකඩ පින්තූරය \n අප්ලෝඩ් වෙමින් පවතී</string>
+    <string name="image_uploading">තෝරාගත් රූපය \n අප්ලෝඩ් වෙමින් පවතී</string>
+    <string name="change_lang">භාෂාව වෙනස් කරන්න</string>
+    <string name="refresh">නැවුම් කරන්න</string>
+    <string name="delete_message">ඔබට මෙම පණිවිඩය මකා දැමීමට අවශ්ය බව ඔබට විශ්වාසද?</string>
+    <string name="not_user">වෙනත් කෙනෙකුගේ පණිවුඩය මකා දැමිය නොහැක</string>
+
+
+    <string-array name="register_validation_message">
+        <item>පරිශීලක නාමය අනිවාර්ය වේ</item>
+        <item>ඊමේල් ලිපිනය අනිවාර්ය වේ</item>
+        <item>ජංගම දුරකථන අංකය අනිවාර්ය වේ</item>
+        <item>මුරපදය අනිවාර්ය වේ</item>
+        <item>මුරපද දෙක ගැලපෙන්නේ නැත</item>
+        <item>මුරපදය අවම වශයෙන් අක්ෂර 6 ක් විය යුතුය</item>
+    </string-array>
+</resources>
+
+
+
+
+
+
+
+
+

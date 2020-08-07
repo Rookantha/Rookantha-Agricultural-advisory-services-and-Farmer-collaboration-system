@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    android:layout_height="match_parent"
+    tools:context=".StartActivity">
+
+    <ImageView
+        android:layout_width="256dp"
+        android:layout_height="256dp"
+        android:src="@drawable/logo"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="@android:color/transparent"
+        />
+
+    <Button
+        android:id="@+id/Start_Language"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/language"
+        android:textColor="#000"
+        android:background="@drawable/btnwhite"
+        />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:id="@+id/Start_Login"
+        android:text="@string/button_login"
+        android:textColor="#fff"
+        android:background="@drawable/btnblue"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:id="@+id/Start_Register"
+        android:text="@string/button_register"
+        android:textColor="#fff"
+        android:background="@drawable/btnblue"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:id="@+id/Start_Exit"
+        android:text="@string/exit"
+        android:textColor="#fff"
+        android:background="@drawable/btnexit"
+        />
+</LinearLayout>

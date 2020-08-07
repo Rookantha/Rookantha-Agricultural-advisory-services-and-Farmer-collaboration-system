@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".LoginActivity">
+
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/bar_layout"/>
+
+    <LinearLayout
+        android:id="@+id/topPanel"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/toolbar"
+        android:padding="16dp"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/login_title"
+            android:textSize="30dp"
+            android:textAlignment="center"
+            android:textColor="#000"
+            android:textStyle="bold"
+            />
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Login_Email"
+            android:textColor="#000"
+            android:textSize="20dp"
+            android:layout_marginTop="30dp"
+            android:inputType="textEmailAddress"
+            android:hint="@string/registered_email"
+            android:drawableLeft="@drawable/email"
+            android:drawablePadding="12dp"
+            />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Login_Password"
+            android:textColor="#000"
+            android:layout_marginTop="20dp"
+            android:inputType="textPassword"
+            android:hint="@string/password"
+            android:textSize="20dp"
+            android:drawableLeft="@drawable/lock"
+            android:drawablePadding="12dp"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/button_login"
+            android:id="@+id/btnLogLogin"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/btnwhite"
+            android:textColor="#000"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/button_register"
+            android:id="@+id/btnLogRegister"
+            android:background="@drawable/btnred"
+            android:layout_marginTop="10dp"
+            android:textColor="#fff"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/forgot_password"
+            android:gravity="center"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:id="@+id/forgot_password"
+            android:textColor="#123dde"
+            />
+
+        <TextView
+            android:id="@+id/Nothing"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/email_app"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:textColor="#000"
+            />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/below"
+        android:layout_width="match_parent"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/topPanel"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:layout_centerHorizontal="true"
+        >
+        <ImageView
+            android:id="@+id/outlook_icon"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginRight="25dp"
+            android:src="@drawable/outlook"
+            android:layout_gravity="center"
+            />
+
+        <ImageView
+            android:id="@+id/gmail_icon"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/gmail"
+            android:layout_gravity="center"
+            />
+
+        <ImageView
+            android:id="@+id/yahoo_icon"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="25dp"
+            android:src="@drawable/yahoo"
+            android:layout_gravity="center"
+            />
+    </LinearLayout>
+</RelativeLayout>
+
+

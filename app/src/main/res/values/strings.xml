@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">ChatAgro</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_password_title">Change Account\'s Password</string>
+    <string name="change_password_new">New Password</string>
+    <string name="change_password_confirm">Confirm New Password</string>
+    <string name="change_password_button">Change Password</string>
+    <string name="login_title">Login with Your Account</string>
+    <string name="registered_email">Registered Email Address</string>
+    <string name="password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="forgot_password">Have You Forgot Your Password...?</string>
+    <string name="email_app">Don\'t have an Email..? Get registered with Following</string>
+    <string name="type_message">Type a Message...</string>
+    <string name="register_title">Create a new Account</string>
+    <string name="username">Username</string>
+    <string name="email_address">Email Address</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="confirm_password">Confirm - Password</string>
+    <string name="reset_title">Reset Password</string>
+    <string name="description">By Clicking Reset Password Button, You will receive an email to reset the password</string>
+    <string name="exit">Exit</string>
+    <string name="search">Search Users....</string>
+    <string name="button_update">Update Profile</string>
+    <string name="button_delete">Delete Account</string>
+    <string name="logout">Logout</string>
+    <string name="back">Back</string>
+    <string name="null_email">Email is Required</string>
+    <string name="check_email">Please check your Email</string>
+    <string name="register_dialog_message">Please wait....\n Registration in Progress</string>
+    <string name="register_fail">Account Failed to Register</string>
+    <string name="internetFail">No Internet Connection Found...!</string>
+    <string name="registerSuccess">Account Successfully Registered \n Verification Mail Send</string>
+    <string name="registerFailed">Verification mail failed to send</string>
+    <string name="empty_send">Cannot send empty messages</string>
+    <string name="title_signout_dialog">Do Really want to Sign - Out</string>
+    <string name="body_signout_dialog">Are you sure\n that you want to sign out..?</string>
+    <string name="positive">Yes</string>
+    <string name="negative">No</string>
+    <string name="login_fail_message">Login Failed</string>
+    <string name="dialog_log_message">Please wait...\n Login in progress</string>
+    <string name="fail_change">Password Failed to Change</string>
+    <string name="success_change">Password Changed Successfully</string>
+    <string name="no_internet_big_message">No Internet Connection..\n Please connect to an Internet and try again</string>
+    <string name="language">Choose Preferred Language</string>
+    <string name="chating">Chats</string>
+    <string name="Users">Users</string>
+    <string name="Profile">Profile</string>
+    <string name="NoImage">No Image Selected</string>
+    <string name="upload_progress">Upload in Progress</string>
+    <string name="dial_Title">Are you Sure..?</string>
+    <string name="dialogBody">Deleting this account will result in completely removing your account from the system and you won\'t be able to access the app any longer</string>
+    <string name="dialogDelete">Delete</string>
+    <string name="dialogCancel">Cancel</string>
+    <string name="dialogDeleteSuccess">Account Deleted Successfully \n Goodbye..\!</string>
+    <string name="dialogDeleteFail">Failed to Delete Your Account \n Please Try Again</string>
+    <string name="update_progress">Please wait...\n Updating in progress</string>
+    <string name="update_success">Profile Updated Successfully</string>
+    <string name="send">Send</string>
+    <string name="uploading">Profile Picture is \n Uploading in Progress</string>
+    <string name="image_uploading">Selected Image is \n Uploading in Progress</string>
+    <string name="change_lang">Change Language</string>
+    <string name="refresh">Refresh</string>
+    <string name="delete_message">Are you sure that you want to delete this message..?</string>
+    <string name="not_user">Cannot delete someone else\'s message</string>
+
+    <string-array name="register_validation_message">
+        <item>Username is Required</item>
+        <item>Email Address is Required</item>
+        <item>Mobile Number is Required</item>
+        <item>Password is Required</item>
+        <item>Two Passwords don\'t Match</item>
+        <item>Password must be at least 6 Characters Long</item>
+    </string-array>
+</resources>
