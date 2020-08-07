@@ -85,18 +85,61 @@ ChatAgro
 <p>Login Screen<p>
 <p><img src="screenshot/Annotation5.png"  alt="screenshot"/><p>
       
-<p>Start Page<p>      
-<p><img src="screenshot/Annotation1.png"  alt="screenshot"/><p>
+<p>Reset Password<p>      
+<p><img src="screenshot/Annotation6.png"  alt="screenshot"/><p>
 
-<p>Start Page<p>
-<p><img src="screenshot/Annotation1.png"  alt="screenshot"/><p>
+<p>Main Dashboard of the ChatAgro<p>
+<p><img src="screenshot/Annotation7.png"  alt="screenshot"/><p>
       
-<p>Start Page<p>      
-<p><img src="screenshot/Annotation1.png"  alt="screenshot"/><p>
+<p>Search Users<p>      
+<p><img src="screenshot/Annotation8.png"  alt="screenshot"/><p>
 
-<p>Start Page<p>
-<p><img src="screenshot/Annotation1.png"  alt="screenshot"/><p>
+<p>Update Profile<p>
+<p><img src="screenshot/Annotation9.png"  alt="screenshot"/><p>
   
-<p>Start Page<p>
-<p><img src="screenshot/Annotation1.png"  alt="screenshot"/><p>  
+<p>Delete Profile<p>
+<p><img src="screenshot/Annotation10.png"  alt="screenshot"/><p>  
+
+<p>Sign Out<p>
+<p><img src="screenshot/Annotation11.png"  alt="screenshot"/><p>
+  
+<p>Message Interface<p>
+<p><img src="screenshot/Annotation12.png"  alt="screenshot"/><p>    
+  
+<p>Delete Message<p>
+<p><img src="screenshot/Annotation13.png"  alt="screenshot"/><p>    
+
+<p>Delete Message<p>
+<p><img src="screenshot/Annotation14.png"  alt="screenshot"/><p>
+  
+<h2>Database Model Used</h2>
+
+<p>As the data storage for the application we have decided to  use firebase database which is an online database provided by the google. This is very easy to use where the data is stored in the database as nodes not in table form. Firebase provides many facilities such as Authentications, Realtime database, Storage and more.<p>
+
+<h3>Firebase</h3>
+
+<p>Under the  authentication  function  provided  in  Firebase,  user  registration 	and verification will take place. This function handles email verifications, username (Email Address) and Password Management.<p>
+  <p><img src="screenshot/Annotation15.png"  alt="screenshot"/><p>
+    
+<p>All the data and information send in the form of text from the application will be stored here. This is a real time database which reflects the changes made in the application data within a fraction of second.<p>
+  <p><img src="screenshot/Annotation16.png"  alt="screenshot"/><p>
+  
+<h3>Cloud Storage</h3>
+
+<p>All the data and information send in the form of images from the application will 	be stored here. This is also real time storage which reflects the changes made within the application within a fraction of second (Note : according to the file size time may very)<p>
+  <p><img src="screenshot/Annotation14.png"  alt="screenshot"/><p>
+    
+<h2>Usability Evaluations</h2>
+<p>Before uploading the "ChatAgro" application to the google play store we have tested the application for several hundreds of time. And also, we have distributed   beta version of the app among some of our class mates to test and give us their feedbacks. As a feedback summary, almost all said that application is perfect in functioning, attractive interfaces used and easy to use. But the only problem is that there is no facility given to upload videos. (Note: Video functionality will be discussed in the Future Implementations)<p>
+
+<h2>Future implementations</h2>
+<p>In the very near future we are planning to implement this application island wide with some developments and advancements. Since the current version only supports image and data processing, we are planning to implement a video processing as well in the future. Because videos can express detailed explanation than typing the descriptions a text box and posting a image of the problem. However video uploading and downloading may take several minutes depending on the file size and quality and also it will take lots of mobile data in sending video process.<p>
+<p>And also, location sharing facilities will be embedded within the application in the future where the farmers can set their locations. So that the officers in the agricultural department can access those locations for further identification and clarification of problem. In the current context we have given the app completely free for the users and can only be used within android OS. However, in the future implementations we would provide the same application to IOS users.<p>
+
+<h2>Conclusion</h2>
+<p>As a summary we have developed an agricultural solution providing portrait application for android users. The application process, store, retrieve, update and delete data and information in real time. And also, the application is designed with attractive and eye-catching colors which will keep the users attracted towards the application. However, the "ChatAgro" application weight around 50MB because of its functionalities. Anyhow the application is fully functioning and have no errors. Overall, we as university undergraduates we think that we have achieved a great success in proving easy useable solution for our Sri Lankan farmers without imposing any charges on them.<p>
+
+  
+  
+  
   
