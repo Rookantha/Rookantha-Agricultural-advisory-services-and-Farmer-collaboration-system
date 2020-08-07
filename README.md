@@ -16,4 +16,26 @@ Considering all the facts we decided to give those innocent farmers who sacrific
 App Name:
 ChatAgro 
 <p>
-  <img src="Screenshot/poster.png"  alt="Screenshot"/>
+  <img src="Screenshot/Annotation1.png"  alt="Screenshot"/>
+
+<h3>Expected benefits from the application to the Farmers</h3>
+
+<ul>
+  <li>Save the valuable time of the farmers.</li>
+  <li>Use existing and familiar resources (Smartphone) rather than implementing new ones.</li>
+  <li>Save the valuable time of the farmers.</li>
+  <li>Provide solutions within less time period.</li>
+  <li>Provide quality and easy functionality along with a better user experience.</li>
+  <li>Satisfy the farmers and reduce their stress.</li>  
+</ul>  
+
+<h3>Expected benefits from the application to the Officers</h3>
+
+<ul>
+  <li>Improve the efficiency of solving problems.</li>
+  <li>Provide solutions for the farmers within less time period.</li>
+  <li>Can reduce the cost of papers.</li>
+  <li>Easy to access the problems and solve them. </li>
+ 
+</ul>  
+
