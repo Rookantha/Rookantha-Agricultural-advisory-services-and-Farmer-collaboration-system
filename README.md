@@ -127,7 +127,7 @@ ChatAgro
 <h3>Cloud Storage</h3>
 
 <p>All the data and information send in the form of images from the application will 	be stored here. This is also real time storage which reflects the changes made within the application within a fraction of second (Note : according to the file size time may very)<p>
-  <p><img src="screenshot/Annotation14.png"  alt="screenshot"/><p>
+  <p><img src="screenshot/Annotation17.png"  alt="screenshot"/><p>
     
 <h2>Usability Evaluations</h2>
 <p>Before uploading the "ChatAgro" application to the google play store we have tested the application for several hundreds of time. And also, we have distributed   beta version of the app among some of our class mates to test and give us their feedbacks. As a feedback summary, almost all said that application is perfect in functioning, attractive interfaces used and easy to use. But the only problem is that there is no facility given to upload videos. (Note: Video functionality will be discussed in the Future Implementations)<p>
